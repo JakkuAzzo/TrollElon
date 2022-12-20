@@ -1,6 +1,6 @@
 # TrollElon - By Jak n Nbb
 Hutchins dislikes Elon, so i wanted to make his job a bit easier for him 
-'''
+```
 '########:'########:::'#######::'##:::::::'##:::::::'########:'##::::::::'#######::'##::: ##:
 ... ##..:: ##.... ##:'##.... ##: ##::::::: ##::::::: ##.....:: ##:::::::'##.... ##: ###:: ##:
 ::: ##:::: ##:::: ##: ##:::: ##: ##::::::: ##::::::: ##::::::: ##::::::: ##:::: ##: ####: ##:
@@ -9,8 +9,9 @@ Hutchins dislikes Elon, so i wanted to make his job a bit easier for him
 ::: ##:::: ##::. ##:: ##:::: ##: ##::::::: ##::::::: ##::::::: ##::::::: ##:::: ##: ##:. ###:
 ::: ##:::: ##:::. ##:. #######:: ########: ########: ########: ########:. #######:: ##::. ##:
 :::..:::::..:::::..:::.......:::........::........::........::........:::.......:::..::::..::
+```
 - Banner made using l33t h3kr tools from https://manytools.org/hacker-tools/ascii-banner/
-'''
+
 
 Download this repo, run in terminal, python3.
 Some stuff doesn't work rn , you'll see. 
